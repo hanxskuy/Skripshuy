@@ -1,0 +1,43 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="FLbsT3CKq_bTrWkhYCRl">
+    <mxGraphModel dx="436" dy="551" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="uewmN4zgftupHh4G9ur1-4" edge="1" parent="1" source="uewmN4zgftupHh4G9ur1-1" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="uewmN4zgftupHh4G9ur1-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uewmN4zgftupHh4G9ur1-1" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="LiTS dataset" vertex="1">
+          <mxGeometry height="50" width="120" x="260" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="uewmN4zgftupHh4G9ur1-5" edge="1" parent="1" source="uewmN4zgftupHh4G9ur1-2" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="uewmN4zgftupHh4G9ur1-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uewmN4zgftupHh4G9ur1-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Loading Data" vertex="1">
+          <mxGeometry height="50" width="116" x="414" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="uewmN4zgftupHh4G9ur1-10" edge="1" parent="1" source="uewmN4zgftupHh4G9ur1-3" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="uewmN4zgftupHh4G9ur1-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uewmN4zgftupHh4G9ur1-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Normalisasi&lt;div&gt;Hounsfield Unit (HU)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="116" x="570" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="uewmN4zgftupHh4G9ur1-12" edge="1" parent="1" source="uewmN4zgftupHh4G9ur1-6" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="uewmN4zgftupHh4G9ur1-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uewmN4zgftupHh4G9ur1-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Resize Citra" vertex="1">
+          <mxGeometry height="50" width="116" x="570" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="uewmN4zgftupHh4G9ur1-8" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Data Uji dan&amp;nbsp;&lt;div&gt;Data Latih&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="120" x="250" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="uewmN4zgftupHh4G9ur1-13" edge="1" parent="1" source="uewmN4zgftupHh4G9ur1-11" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="uewmN4zgftupHh4G9ur1-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uewmN4zgftupHh4G9ur1-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Pemissahan Data Uji dan Data Latih" vertex="1">
+          <mxGeometry height="50" width="116" x="413.5" y="200" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
